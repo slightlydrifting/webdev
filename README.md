@@ -9,7 +9,7 @@ Examples of some of my web design projects
 ## Fullstack Web Portal created for Principals of Software Engineering:
 [Click here for a video demo](https://www.youtube.com/watch?v=oUu_haCwMXc)
 
-## Work Project: Refreshing a company's aging helpdesk page with no backend code refactoring.  
+## Work Project: Refreshing a company's aging helpdesk page without updating the backend. Cosmetic only.  
 ### OLD  
 ![](sc1.png)
 
