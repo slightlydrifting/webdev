@@ -1,6 +1,7 @@
 # Web Project Portfolio
-Examples of some of my web design projects
+Examples of some of my university and private web design projects
 
+## School Projects
 ## Simple pages created for Internet Computing:
 ![](projectpage.gif)
 
