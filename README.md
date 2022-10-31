@@ -1,38 +1,36 @@
 # webdev
 Examples of some of my web design projects
 
-Projects:
-
-Simple pages created for Internet Computing:
+## Simple pages created for Internet Computing:
 ![](projectpage.gif)
 
 ![](musicportfolio.gif)
 
-Fullstack Web Portal created for Principals of Software Engineering:
+## Fullstack Web Portal created for Principals of Software Engineering:
 [Click here for a video demo](https://www.youtube.com/watch?v=oUu_haCwMXc)
 
-Work Project: Refreshing a company's aging helpdesk page with no backend code refactoring.  
-OLD  
+## Work Project: Refreshing a company's aging helpdesk page with no backend code refactoring.  
+### OLD  
 ![](sc1.png)
 
-NEW  
+### NEW  
 ![](sc1_new.png)
 
 
-OLD  
+### OLD  
 ![](sc2.png)
 
-NEW  
+### NEW  
 ![](sc2_new.png)
 
-OLD  
+### OLD  
 ![](sc3.png)
 
-NEW  
+### NEW  
 ![](sc3_new.png)
 
-OLD  
+### OLD  
 ![](sc4.png)
 
-NEW  
+### NEW  
 ![](sc4_new.png)
