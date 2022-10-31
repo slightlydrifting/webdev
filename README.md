@@ -1,4 +1,4 @@
-# webdev
+# Web Project Portfolio
 Examples of some of my web design projects
 
 ## Simple pages created for Internet Computing:
