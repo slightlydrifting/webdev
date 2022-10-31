@@ -4,9 +4,9 @@ Examples of some of my web design projects
 Projects:
 
 Simple pages created for Internet Computing:
-[](projectpage.gif)
+[picture](projectpage.gif)
 
-[](musicportfolio.gif)
+[picture](musicportfolio.gif)
 
 Fullstack Web Portal created for Principals of Software Engineering:
 Demo of site here: https://www.youtube.com/watch?v=oUu_haCwMXc
