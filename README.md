@@ -11,7 +11,7 @@ Simple pages created for Internet Computing:
 Fullstack Web Portal created for Principals of Software Engineering:
 [Click here for a video demo](https://www.youtube.com/watch?v=oUu_haCwMXc)
 
-Work Project: Refreshing a company's aging helpdesk page without any backend code refactoring.
+Work Project: Refreshing a company's aging helpdesk page with no backend code refactoring.  
 OLD  
 ![](sc1.png)
 
