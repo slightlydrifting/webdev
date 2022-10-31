@@ -8,4 +8,4 @@ Examples of some of my web design projects
 [](musicportfolio.gif)
 
 #Fullstack Web Portal created for Principals of Software Engineering
-Demo of  site here: https://www.youtube.com/watch?v=oUu_haCwMXc
+Demo of site here: https://www.youtube.com/watch?v=oUu_haCwMXc
